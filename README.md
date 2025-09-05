@@ -126,28 +126,6 @@ SCRAPERAPI_RENDER=true
 - **Device**: Desktop
 
 ## Features in Detail
-##  product  Structure
-
-product-sentiment-analyser/
-├── backend/
-│   ├── app.py              # Flask application
-│   ├── scraper.py          # Scraping and sentiment analysis
-│   ├── requirements.txt    # Python dependencies
-│   └── _init_.py
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── App.jsx         # Main application
-│   │   │   ├── ProductCard.jsx # Product display component
-│   │   │   └── AnalyzeModal.jsx # Review analysis modal
-│   │   ├── services/
-│   │   │   └── api.js          # API service layer
-│   │   ├── main.jsx           # React entry point
-│   │   └── index.css          # TailwindCSS styles
-│   ├── package.json           # Node dependencies
-│   ├── vite.config.js         # Vite configuration
-│   └── tailwind.config.js     # TailwindCSS configuration
-└── README.md
 
 
 ### Product Search
@@ -224,4 +202,5 @@ This project is for educational purposes. Please respect Amazon's terms of servi
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
+
 
