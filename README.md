@@ -204,6 +204,14 @@ This project is for educational purposes. Please respect Amazon's terms of servi
 4. Test thoroughly
 5. Submit a pull request
 ![image alt](https://github.com/KaraNexGen/Product-Sentiment-Analyzer-and-Review-Dashboard/blob/58061852e133da6ee3a74679fe6d7607ba2bffc2/product-1.png)
+![image alt](https://github.com/KaraNexGen/Product-Sentiment-Analyzer-and-Review-Dashboard/blob/67706532320da8f9003435c10b29dd42bc51e948/product-2.png)
+![image alt](https://github.com/KaraNexGen/Product-Sentiment-Analyzer-and-Review-Dashboard/blob/67706532320da8f9003435c10b29dd42bc51e948/product-3.png)
+![image alt](https://github.com/KaraNexGen/Product-Sentiment-Analyzer-and-Review-Dashboard/blob/67706532320da8f9003435c10b29dd42bc51e948/product-4.png)
+
+
+
+
+
 
 
 
