@@ -190,7 +190,7 @@ SCRAPERAPI_RENDER=true
 1. Build: `npm run build`
 2. Deploy static files
 3. Update API_BASE_URL for production
-![image alt](https://github.com/KaraNexGen/Product-Sentiment-Analyzer-and-Review-Dashboard/blob/c1bc6744967c214ab93c3c09ca7c43d461011ae5/pro-1.png)
+
 
 ## License
 
@@ -203,6 +203,10 @@ This project is for educational purposes. Please respect Amazon's terms of servi
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
+![image alt](https://github.com/KaraNexGen/Product-Sentiment-Analyzer-and-Review-Dashboard/blob/58061852e133da6ee3a74679fe6d7607ba2bffc2/product-1.png)
+
+
+
 
 
 
